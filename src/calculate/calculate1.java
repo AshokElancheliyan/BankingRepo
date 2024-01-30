@@ -8,5 +8,6 @@ public class calculate1 {
    System.out.println("fine");
    System.out.println("hru");
    System.out.println("wru");
+   System.out.println("ghdghaggas");
 }
 }
